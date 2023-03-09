@@ -8,11 +8,11 @@ export default function Home() {
   return (
     <div className='text-black bg-black'>
       <NextSeo
-        title='Home: nine4'
-        description='Welcome to nine4 homepage.'
-        canonical='https://nine4-3.vercel.app/'
+        title='Apple Fast'
+        description='Bem vindo à Apple Fast.'
+        canonical='https://applefast.com.br/'
         openGraph={{
-          url: 'https://nine4-3.vercel.app/',
+          url: 'https://applefast.com.br/',
         }}
       />
       <Head>
